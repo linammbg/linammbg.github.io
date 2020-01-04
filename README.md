@@ -2,10 +2,10 @@
 
 ``` 将孩子的学习过程，变成艺术品的创作过程! ```
 
-### 针对多阶段数学知识  可个性化定制
+### 针对多阶段数学知识  `支持个性化定制`
 * 数字认知
 
-<a href="/show.html?id=01_20200104_220019_3">
+<a _todo_href="/magicshow.html?id=01_20200104_220019_3" target="_blank">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/validation.png"
@@ -68,8 +68,8 @@
 
 ### 即将推出
 * 更多数学知识
-* 汉语拼音学习
-* 英语单词学习
+* 汉字和拼音学习
+* 英语字母和单词学习
 * 以及更多创意 ....
 
 

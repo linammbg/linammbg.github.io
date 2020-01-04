@@ -75,7 +75,7 @@
 ### 图案及内容定制
 请联系
 
-* 趣涂微信 `NZQLC0101	`
+* 趣涂微信 `NZQLC0101	` 或扫一扫
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/dropbox/qlcwechat.jpeg" width="50">
 * 电子邮件 `lina.mengws@outlook.com`
 
@@ -84,10 +84,17 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-## 新西兰奶粉保健品代购
+# 新西兰奶粉保健品代购
 
-<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/dropbox/qlcwechat.jpeg" width="50">
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/dropbox/qlcwechat.jpeg" width="90">
 
+* 婴幼儿配方奶粉 `爱他美` `A2` `贝拉米` `惠氏S26` `安满` `可瑞康`
+* 孕妇奶粉
+* 儿童成长奶粉
+* 成人奶粉
+* 保健品
+* 蜂产品
+* 护肤品
 
 
 ```

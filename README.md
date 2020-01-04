@@ -1,6 +1,6 @@
 # 趣味涂色学习卡
 
-``` 将学习的过程融入艺术品的创造过程! ```
+``` 将孩子的学习过程，变成艺术品的创作过程! ```
 
 ### 针对多阶段数学知识
 * 数字认知
@@ -76,6 +76,7 @@
 请联系
 
 * 趣涂微信 `NZQLC0101	`
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/dropbox/qlcwechat.jpeg" width="50">
 * 电子邮件 `lina.mengws@outlook.com`
 
 
@@ -85,7 +86,9 @@
 
 ## 新西兰奶粉保健品代购
 
-# TODO `<img src="" width=100>`
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/dropbox/qlcwechat.jpeg" width="50">
+
+
 
 ```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

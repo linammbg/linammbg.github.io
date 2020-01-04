@@ -6,14 +6,65 @@
 * 数字认知
 
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/matrix_text.png"
-    width="100">
+    width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/validation.png"
-    width="100">
+    width="100"> &nbsp;
 
 * 十以内加减法
+
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/02_20200104_220019_7/matrix_text.png"
+    width="100"> &nbsp;
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/02_20200104_220019_7/validation.png"
+    width="100"> &nbsp;
+
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/03_20200104_220020_1/matrix_text.png"
+    width="100"> &nbsp;
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/03_20200104_220020_1/validation.png"
+    width="100"> &nbsp;
+
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/04_20200104_220020_4/matrix_text.png"
+    width="100"> &nbsp;
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/04_20200104_220020_4/validation.png"
+    width="100"> &nbsp;
+
+
 * 二十以内加减法
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/06_20200104_223141_2/matrix_text.png"
+    width="100"> &nbsp;
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/06_20200104_223141_2/validation.png"
+    width="100"> &nbsp;
+
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/07_20200104_223141_6/matrix_text.png"
+    width="100"> &nbsp;
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/07_20200104_223141_6/validation.png"
+    width="100"> &nbsp;
+    
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/08_20200104_223142_0/matrix_text.png"
+    width="100"> &nbsp;
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/08_20200104_223142_0/validation.png"
+    width="100"> &nbsp;
+
+
 * 一百以内加减法
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/09_20200104_220022_3/matrix_text.png"
+    width="100"> &nbsp;
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/09_20200104_220022_3/validation.png"
+    width="100"> &nbsp;
+
+
 * 乘法口诀
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/05_20200104_220020_8/matrix_text.png"
+    width="100"> &nbsp;
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/05_20200104_220020_8/validation.png"
+    width="100"> &nbsp;
+
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/10_20200104_220023_1/matrix_text.png"
+    width="100"> &nbsp;
+<img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/10_20200104_220023_1/validation.png"
+    width="100"> &nbsp;
+
+
+
 * 两位数以内的乘法
 
 ### 即将推出

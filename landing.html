@@ -7,8 +7,15 @@
 
 <script>
 
-var language = window.navigator.userLanguage || window.navigator.language;
-alert(language);
+var _lang = window.navigator.userLanguage || window.navigator.language;
+if (_lang === 'zh-CN')
+{
+    window.location.replace('/zh/');
+}
+else
+{
+    window.location.replace('/en/');
+}
 
 </script>
 

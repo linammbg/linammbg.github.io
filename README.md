@@ -85,7 +85,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-# 新西兰奶粉保健品代购
+# 新西兰奶粉保健品直邮
 
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/dropbox/qlcwechat.jpeg" width="90">
 

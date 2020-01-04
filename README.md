@@ -5,6 +5,11 @@
 ### 针对多阶段数学知识
 * 数字认知
 
+![](https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/matrix_text.png | width=100)
+![](https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/validation.png | width=100)
+
+<hr/>
+
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/matrix_text.png">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/validation.png">
 

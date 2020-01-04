@@ -2,13 +2,15 @@
 
 ``` 将孩子的学习过程，变成艺术品的创作过程! ```
 
-### 针对多阶段数学知识
+### 针对多阶段数学知识  可个性化定制
 * 数字认知
 
+<a href="/show.html?id=01_20200104_220019_3">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/validation.png"
     width="100"> &nbsp;
+</a>
 
 * 十以内加减法
 
@@ -71,9 +73,9 @@
 * 以及更多创意 ....
 
 
-### 图案及内容定制
-请联系
+### 如需图案及内容定制
 
+请联系
 * 电子邮件 `lina.mengws@outlook.com`
 * 趣涂微信 `NZQLC0101	`
 

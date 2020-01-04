@@ -6,9 +6,9 @@
 * 数字认知
 
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/matrix_text.png"
-    width="100" height="200" >
+    width="100">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/00/01_20200104_220019_3/validation.png"
-    width="100" height="200">
+    width="100">
 
 * 十以内加减法
 * 二十以内加减法

@@ -6,9 +6,10 @@
 	<script type="text/javascript">
 		
 		$(function(){
-			var params = new window.URLSearchParams(window.location.search);
-			var _id = params['id'];
-			var _pdf = params['pdf'];
+			var params = new URL(window.location.href);
+
+			var _id = params.get('id');
+			var _pdf = params.get('pdf');
 
 			console.log('id:' + _id);
 			console.log('pdf:' + _pdf);
@@ -21,6 +22,14 @@
 
 <body>
 	<div id="box">
+		<script>
+			var params = new URL(window.location.href);
+			var _id = params.get('id');
+			var _pdf = params.get('pdf');
+
+			document.write('<p>id:' + _id + '</p>');
+			document.write('<p>pdf:' + _pdf + '</p>');
+		</script>
 	</div>
 <body>
 

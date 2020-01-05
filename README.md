@@ -14,54 +14,73 @@
 
 * 十以内加减法
 
+<a href="/magicshow.html?id=02_20200105_125508_3&pdf=20200105_125508_3" target="_blank">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/02_20200105_125508_3/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/02_20200105_125508_3/validation.png"
     width="100"> &nbsp;
+</a>
+<a href="/magicshow.html?id=03_20200105_125508_8&pdf=20200105_125508_8" target="_blank">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/03_20200105_125508_8/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/03_20200105_125508_8/validation.png"
     width="100"> &nbsp;
+</a>
+<a href="/magicshow.html?id=04_20200105_125509_2&pdf=20200105_125509_2" target="_blank">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/04_20200105_125509_2/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/04_20200105_125509_2/validation.png"
     width="100"> &nbsp;
+</a>
 
 
 * 二十以内加减法
 
+<a href="/magicshow.html?id=06_20200105_125510_0&pdf=20200105_125510_0" target="_blank">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/06_20200105_125510_0/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/06_20200105_125510_0/validation.png"
     width="100"> &nbsp;
+</a>
+<a href="/magicshow.html?id=07_20200105_125510_5&pdf=20200105_125510_5" target="_blank">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/07_20200105_125510_5/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/07_20200105_125510_5/validation.png"
     width="100"> &nbsp;
+</a>
+<a href="/magicshow.html?id=08_20200105_125510_9&pdf=20200105_125510_9" target="_blank">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/08_20200105_125510_9/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/08_20200105_125510_9/validation.png"
     width="100"> &nbsp;
+</a>
 
 
 * 一百以内加减法
 
+<a href="/magicshow.html?id=09_20200105_125511_3&pdf=20200105_125511_3" target="_blank">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/09_20200105_125511_3/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/09_20200105_125511_3/validation.png"
     width="100"> &nbsp;
+</a>
 
 
 * 乘法口诀
 
+<a href="/magicshow.html?id=05_20200105_125509_6&pdf=20200105_125509_6" target="_blank">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/05_20200105_125509_6/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/05_20200105_125509_6/validation.png"
     width="100"> &nbsp;
+</a>
+<a href="/magicshow.html?id=10_20200105_125512_2&pdf=20200105_125512_2" target="_blank">
+
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/10_20200105_125512_2/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/10_20200105_125512_2/validation.png"
     width="100"> &nbsp;
+</a>
 
 
 * 两位数以内的乘法

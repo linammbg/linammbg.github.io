@@ -1,0 +1,27 @@
+<html>
+
+<head>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+
+	<script type="text/javascript">
+		
+		$(function(){
+			var params = new window.URLSearchParams(window.location.search);
+			var _id = params['id'];
+			var _pdf = params['pdf'];
+
+			console.log('id:' + _id);
+			console.log('pdf:' + _pdf);
+
+			var box = $('#box');
+		});
+
+	</script>
+</head>
+
+<body>
+	<div id="box">
+	</div>
+<body>
+
+</html>

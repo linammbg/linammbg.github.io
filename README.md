@@ -5,7 +5,7 @@
 ### 针对多阶段数学知识  `支持个性化定制`
 * 数字认知
 
-<a _todo_href="/magicshow.html?id=01_20200104_220019_3" target="_blank">
+<a href="/magicshow.html?id=01_20200105_125507_9&pdf=20200105_125507_9" target="_blank">
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/01_20200105_125507_9/matrix_text.png"
     width="100"> &nbsp;
 <img src="https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/01_20200105_125507_9/validation.png"

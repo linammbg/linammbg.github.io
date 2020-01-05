@@ -9,7 +9,7 @@
 			var params = new URL(window.location.href);
 
 			var _id = params.searchParams.get('id');
-			var _pdf = params.get('pdf');
+			var _pdf = params.searchParams.get('pdf');
 
 			console.log('id:' + _id);
 			console.log('pdf:' + _pdf);
@@ -29,6 +29,14 @@
 
 			document.write('<p>id:' + _id + '</p>');
 			document.write('<p>pdf:' + _pdf + '</p>');
+
+			var base_url = 'https://raw.githubusercontent.com/linammbg/qlc_goodies/bag_00_00/bag_00/01/';
+			var img_url = base_url + _id + '/matrix_text.png';
+			var pdf_url = base_url + 'PDF/' + _pdf + ".pdf";
+
+			document.write('<a href="' + img_url + '"> <img src="' + img_url + '" width=300> </a>');
+			document.write('<br/>');
+			document.write('<a href="' + pdf_url + '"> 下载PDF文件 </a>');
 		</script>
 	</div>
 <body>
